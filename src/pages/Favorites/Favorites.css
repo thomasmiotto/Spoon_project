@@ -1,0 +1,28 @@
+.container_fav{
+    border-radius: 60px;
+    margin: 40px 60px;
+    padding: 30px 30px;
+    background-color: #f0f0f0;
+}
+
+.container_fav h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.remove_btn{
+    color: #ffffff;
+    border-radius: 25px;
+    background-color: #2b7e62;
+    border: none;
+    font-size: 20px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.container_fav_card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

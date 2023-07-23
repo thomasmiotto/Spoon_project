@@ -1,0 +1,18 @@
+.container_details{
+    border-radius: 60px;
+    margin: 40px 60px;
+    padding: 30px 30px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_details img{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.description {
+    margin : 0 20px;
+}

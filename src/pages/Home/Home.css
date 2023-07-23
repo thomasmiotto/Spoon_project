@@ -1,0 +1,12 @@
+.container_home{
+    border-radius: 60px;
+    margin: 40px 60px;
+    padding: 30px 30px;
+    background-color: #f0f0f0;
+}
+
+.container_home h1{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
